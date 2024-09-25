@@ -1,1 +1,10 @@
+
+# Editors.
+*.sw*
+.vscode
+.DS_Store
 .clangd
+
+# Build directory.
+build/
+out/
